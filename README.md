@@ -15,6 +15,7 @@ To install **clojure**:
 Ubuntu16.04>$ lein repl
 ```
 ##(do
+This is the content of [config.sh](config.sh):
 ```bash
     # !/bin/bash
 
