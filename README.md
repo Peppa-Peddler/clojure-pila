@@ -1,18 +1,17 @@
-# clojure-pila
-My Vagrant setup for Clojure hacks purposes
+# (defn clojure-pila
+My Vagrant setup for Clojure hacks purposes (VM ubuntu 16.04)
 
 # Install
-This Vagrant file installs *java-8* & **leiningen**
+This *Vagrantfile* installs **java-8** & **leiningen**.
 
 ```
-vagrant up
-vagrant ssh
+$ vagrant up
+$ vagrant ssh
 ```
 
-to install clojure
+To install **clojure**:
 
 ```
-lein repl
+Ubuntu16.04>$ lein repl
 ```
-
-And let leiningen installs **clojure**
+# )
