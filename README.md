@@ -1,4 +1,4 @@
-# (defn clojure-pila
+# (def clojure-pila
 My Vagrant setup for Clojure hacks purposes (VM ubuntu 16.04)
 
 # Install
