@@ -1,0 +1,8 @@
+# Ignore .log
+*.log
+
+# Vagrant
+.vagrant/
+.vagrant
+acceptance_config.yml
+boxes/*
